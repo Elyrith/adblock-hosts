@@ -1,9 +1,2 @@
 # A list of custom hosts to allow and block
 
-## Allow list
-
-#Allow Apple devices to send YouTube watched videos info
-s.youtube.com
-
-#Home Depot website (price and inventory sections)
-cdn.cookielaw.org
